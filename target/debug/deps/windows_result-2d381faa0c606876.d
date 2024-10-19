@@ -1,0 +1,11 @@
+C:\Users\vigne\Sector -P01\RustProgram\zero2prod\target\debug\deps\libwindows_result-2d381faa0c606876.rmeta: C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src/lib.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bindings.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\com.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\strings.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bstr.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\error.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\hresult.rs
+
+C:\Users\vigne\Sector -P01\RustProgram\zero2prod\target\debug\deps\windows_result-2d381faa0c606876.d: C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src/lib.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bindings.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\com.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\strings.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bstr.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\error.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\hresult.rs
+
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src/lib.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bindings.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\com.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\strings.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bstr.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\error.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\hresult.rs:

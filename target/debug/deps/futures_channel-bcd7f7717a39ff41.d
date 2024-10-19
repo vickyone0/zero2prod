@@ -1,0 +1,9 @@
+C:\Users\vigne\Sector -P01\RustProgram\zero2prod\target\debug\deps\libfutures_channel-bcd7f7717a39ff41.rmeta: C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+C:\Users\vigne\Sector -P01\RustProgram\zero2prod\target\debug\deps\futures_channel-bcd7f7717a39ff41.d: C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs:
+C:\Users\vigne\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs:
